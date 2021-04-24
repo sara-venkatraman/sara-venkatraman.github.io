@@ -1,0 +1,111 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: $font-color;
+  font-family: $font-face;
+  font-weight: $body-font-weight;
+  font-size: $body-font-size;
+  line-height: $line-height;
+  -webkit-font-smoothing: antialiased;
+}
+b {
+  font-weight: $bold-font-weight;
+}
+h1 {
+  font-size: $main-heading-font-size;
+  font-weight: $heading-font-weight;
+  color: $title-font-color;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  a, a:visited { text-decoration: none; }
+}
+h2 {
+  font-size: $main-heading-font-size;
+  font-weight: $heading-font-weight;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+h5 {
+  font-weight: $body-font-weight;
+}
+p.post-title {
+  font-size: $post-title-font-size;
+  font-weight: 700;
+  margin-bottom: 0;
+  a { text-decoration: none; }
+}
+p.post-subtitle {
+  padding: 0;
+  margin-top: 0.3em;
+  margin-bottom:1.5em;
+}
+ul li {
+  padding: 0px 0px;
+}
+hr {
+  border: 0;
+  border-top: 1px solid $light;
+}
+a {
+  color: $font-color;
+}
+a:visited {
+  color: $font-color;
+}
+a:hover {
+  color: $link-hover-color;
+}
+main {
+  padding: 0 15px;
+  max-width: $content-width;
+  margin: 0 auto;
+}
+time {
+  color: #898989;
+  font-size: .9em;
+}
+.container {
+  max-width: $content-width;
+  margin: 0 auto;
+}
+
+/* Aside */
+
+aside {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: #fff;
+  width: 100%;
+  z-index: 2;
+  border-bottom: 1px solid lighten($light, 40%);
+  box-shadow: 0px 1px 1px RGBA(4, 25, 54, 0.1);
+  nav {
+    float: left;
+    max-width: 800px;
+    margin: 0 auto;
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      li {
+        float: left;
+        position: relative;
+        a {
+          text-decoration: none;
+          display: block;
+          padding-left: 15px;
+          padding-bottom: 15px;
+          padding-right: 15px;
+          line-height: 0;
+        }
+      }
+    }
+    &:after {
+      content: '';
+      display: table;
+      clear: both;
+    }
+  }
+}

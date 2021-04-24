@@ -1,0 +1,33 @@
+// Layout
+$content-width: 820px;
+$line-height: 1.6;
+
+// Font colors
+$font-color: black;
+$link-color: black;
+$link-hover-color: #B31B1B;
+$title-font-color: black;
+$light: #e7edf4;
+
+// Font face
+$font-face: 'Assistant', sans-serif;
+$title-face: 'Assistant', sans-serif;
+
+// Font sizes
+$body-font-size: 1em;
+$main-heading-font-size: 2em;
+$post-title-font-size: 1.1em;
+
+// Font weights
+$body-font-weight: 300;
+$bold-font-weight: 600;
+$heading-font-weight: 500;
+
+// Other
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
