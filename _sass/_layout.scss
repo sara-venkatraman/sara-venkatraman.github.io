@@ -14,6 +14,7 @@ b {
 h1 {
   font-size: $main-heading-font-size;
   font-weight: $heading-font-weight;
+  letter-spacing: -0.5px;
   color: $title-font-color;
   margin-top: 0em;
   margin-bottom: 0em;
@@ -47,14 +48,13 @@ hr {
   border: 0;
   border-top: 1px solid $light;
 }
-a {
-  color: $font-color;
-}
-a:visited {
-  color: $font-color;
+a, a:visited {
+  color: $link-color;
+  text-decoration: none;
 }
 a:hover {
   color: $link-hover-color;
+  text-decoration: underline; 
 }
 main {
   padding: 0 15px;

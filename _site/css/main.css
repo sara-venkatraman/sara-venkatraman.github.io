@@ -4,7 +4,7 @@ body { padding-top: 40px; padding-bottom: 40px; color: black; font-family: "Assi
 
 b { font-weight: 600; }
 
-h1 { font-size: 2em; font-weight: 500; color: black; margin-top: 0em; margin-bottom: 0em; }
+h1 { font-size: 2em; font-weight: 500; letter-spacing: -0.5px; color: #4d7d23; margin-top: 0em; margin-bottom: 0em; }
 
 h1 a, h1 a:visited { text-decoration: none; }
 
@@ -22,11 +22,9 @@ ul li { padding: 0px 0px; }
 
 hr { border: 0; border-top: 1px solid #e7edf4; }
 
-a { color: black; }
+a, a:visited { color: #2f659c; text-decoration: none; }
 
-a:visited { color: black; }
-
-a:hover { color: #B31B1B; }
+a:hover { color: #2f659c; text-decoration: underline; }
 
 main { padding: 0 15px; max-width: 820px; margin: 0 auto; }
 
