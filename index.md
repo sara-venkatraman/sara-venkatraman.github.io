@@ -2,7 +2,11 @@
 layout: default
 ---
 
-<img style="max-width: 100%" src="files/Banner.png">
+<picture>
+    <source media="(min-width: 551px)" srcset="files/Banner.png">
+    <source media="(max-width: 550px)" srcset="files/Banner-Resized.png">
+    <img src="files/Banner.png" style="max-width: 100%;">
+</picture>
 
 # Sara Venkatraman
 
