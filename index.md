@@ -29,7 +29,7 @@ Previously, I studied statistics at [Yale University](https://statistics.yale.ed
 Sara Venkatraman, Sumanta Basu, Andrew G. Clark, Sofie Delbare, Myung Hee Lee, Martin T. Wells. *In preparation, 2021 (draft available upon request).* \
 <u>2021 IISA Student Paper Competition Winner.</u>
 
-* **Association between neighborhood over-crowdedness, multigenerational households, and COVID-19 in New York City.** \
+* **Association between neighborhood overcrowdedness, multigenerational households, and COVID-19 in New York City.** \
 Arnab K. Ghosh\*, Sara Venkatraman\*, Orysya Soroka, Evgeniya Reshetnyak, Mangala Rajan, Anjile An, John K. Chae, Christopher Gonzalez, Jonathan Prince, Charles DiMaggio, Said Ibrahim, Monika M. Safford, Nathaniel Hupert. *Submitted, 2021.* \
 [[Cornell Statistics article]](https://stat.cornell.edu/news/cornell-statisticians-physicians-team-fight-covid-19)
 
