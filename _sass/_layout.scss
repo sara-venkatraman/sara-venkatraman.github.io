@@ -1,48 +1,41 @@
 body {
   padding-top: 40px;
   padding-bottom: 40px;
-  color: $font-color;
   font-family: $font-face;
-  font-weight: $body-font-weight;
   font-size: $body-font-size;
+  font-weight: $body-font-weight;
   line-height: $line-height;
   -webkit-font-smoothing: antialiased;
 }
-b {
+b, strong {
   font-weight: $bold-font-weight;
 }
+.katex { 
+  font-size: 1em; 
+}
 h1 {
+  font-family: $heading-font-face;
   font-size: $main-heading-font-size;
   font-weight: $heading-font-weight;
   letter-spacing: -0.5px;
-  color: $title-font-color;
   margin-top: 0em;
   margin-bottom: 0em;
-  a, a:visited { text-decoration: none; }
 }
 h2 {
-  font-size: $main-heading-font-size;
+  font-family: $heading-font-face;
+  font-size: $sub-heading-font-size;
   font-weight: $heading-font-weight;
-  margin-top: 0em;
-  margin-bottom: 0em;
 }
-
 h5 {
   font-weight: $body-font-weight;
 }
 p.post-title {
   font-size: $post-title-font-size;
-  font-weight: 700;
+  font-weight: $bold-font-weight;
   margin-bottom: 0;
-  a { text-decoration: none; }
 }
 p.post-subtitle {
-  padding: 0;
   margin-top: 0.3em;
-  margin-bottom:1.5em;
-}
-ul li {
-  padding: 0px 0px;
 }
 hr {
   border: 0;
@@ -53,8 +46,8 @@ a, a:visited {
   text-decoration: none;
 }
 a:hover {
-  color: $link-hover-color;
-  text-decoration: underline; 
+  background-color: $link-background-color;
+  transition: .1s;
 }
 main {
   padding: 0 15px;

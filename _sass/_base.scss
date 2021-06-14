@@ -1,27 +1,27 @@
 // Layout
-$content-width: 820px;
-$line-height: 1.6;
+$content-width: 850px;
+$line-height: 1.7;
 
 // Font colors
-$font-color: black;
 $link-color: #2f659c;
-$link-hover-color: #2f659c;
-$title-font-color: black;
-$light: #e7edf4;
+$heading-color: #2f659c;
+$light: #d7dce0;
+$link-background-color: #d8e1ed;
 
 // Font face
-$font-face: 'Assistant', sans-serif;
-$title-face: 'Assistant', sans-serif;
+$font-face: 'Roboto', sans-serif;
+$heading-font-face: 'Source Serif Pro', serif;
 
 // Font sizes
-$body-font-size: 1em;
-$main-heading-font-size: 2em;
-$post-title-font-size: 1.1em;
+$body-font-size: 1.1em;
+$main-heading-font-size: 2.2em;
+$sub-heading-font-size: 1.5em;
+$post-title-font-size: 1.2em;
 
 // Font weights
 $body-font-weight: 400;
+$heading-font-weight: 400;
 $bold-font-weight: 700;
-$heading-font-weight: 600;
 
 // Other
 *,

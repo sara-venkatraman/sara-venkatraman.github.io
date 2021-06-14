@@ -2,15 +2,19 @@
 layout: default
 ---
 
-<h1>
-  {{ page.title }}
-</h1>
+<h1>{{ page.title }}</h1>
+
 <time>
   {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author
   }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
 </time>
+
 <p class="post-subtitle">
   {{ page.subtitle }}
 </p>
-<hr>
+
+<hr style="padding-bottom: 1.5em;">
+
+{% katexmm %}
 {{ content }}
+{% endkatexmm %}

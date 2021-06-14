@@ -15,6 +15,14 @@
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
 
   <!-- MathJax settings -->
   <script type="text/x-mathjax-config">
@@ -34,6 +42,9 @@
   </script>
   <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+  <!-- KaTeX -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-6PH1K6LEQJ"></script>
   <script>
@@ -46,81 +57,73 @@
 </head>
 
   <style>
-    #one {
-      float: left;
-      margin-right: 40px;
-      margin-top: 12px;
-      width: 25%;
-      background-color: white;
-    }
-    #two {
-      background-color: white;
-      overflow: hidden;
-      margin: 0px;
-    }
     @media screen and (max-width: 700px) {
-      #one {
-        float: none;
-        margin-right: 20px;
-        margin-top: 0px;
-        width: 100%;
-        border: 0;
-        min-height: 180px;
+      body { 
+        padding-top: 10px; 
       }
-      #one img {
-        height:180px;
-      }
+    }
   </style>
   <body>
     <main>
       <article>
-        <div id="one">
-  <img style="max-width: 100%;" src="files/Sara.jpeg">
-</div>
+        <p><img style="max-width: 100%" src="files/Banner.png" /></p>
 
-<div id="two">
-  <h1>Sara Venkatraman</h1>
+<h1 id="sara-venkatraman">Sara Venkatraman</h1>
 
-    Email: skv24 [at] cornell.edu <br>
-    <a href="https://github.com/sara-venkatraman">GitHub</a> &nbsp;&#8226;&nbsp;
-    <a href="https://www.linkedin.com/in/saravenkatraman">LinkedIn</a> &nbsp;&#8226;&nbsp;
-    <a href="https://twitter.com/SaraVenkatraman">Twitter</a>
+<p style="margin:0pt">
+Email: skv24 [at] cornell.edu <br />
+<a href="https://github.com/sara-venkatraman">GitHub</a> &nbsp;&#8226;&nbsp;
+<a href="https://www.linkedin.com/in/saravenkatraman">LinkedIn</a> &nbsp;&#8226;&nbsp;
+<a href="https://twitter.com/SaraVenkatraman">Twitter</a>
+</p>
 
-  <p>
-    Welcome! I am a second-year PhD student in the Department of Statistics and Data Science at <a href="https://stat.cornell.edu">Cornell University</a>, where I am advised by Professors <a href="https://stat.cornell.edu/people/faculty/martin-wells">Martin Wells</a> and <a href="http://faculty.bscb.cornell.edu/~basu/">Sumanta Basu</a>. My research interests are broadly in the analysis of time-evolving phenomena. I especially enjoy thinking about statistical theory and methods for recovering dynamical systems from data. I am also interested in a variety of problems in numerical analysis and high-dimensional statistics, as well as applications of statistics to demography and the social sciences. 
-  </p>
+<p>Welcome! I am a rising third-year PhD student in the Department of Statistics and Data Science at <a href="https://stat.cornell.edu">Cornell University</a>, where I am advised by Professors <a href="https://stat.cornell.edu/people/faculty/martin-wells">Martin Wells</a> and <a href="http://faculty.bscb.cornell.edu/~basu/">Sumanta Basu</a>.</p>
 
-  <p>
-    Previously, I studied statistics at <a href="https://statistics.yale.edu">Yale University</a> as a master's student and at Cornell as an undergraduate.
-  </p>
-    
-  <p>
-  <b>Upcoming presentations</b><br>
+<p>My research interests are broadly in the analysis of time-evolving phenomena. I especially enjoy thinking about statistical theory and methods for recovering dynamical systems from data. I am also interested in a variety of problems in numerical analysis, network science, and optimal transport, as well as applications of statistics to demography and the social sciences.</p>
 
-    I look forward to presenting my recent work at the following conferences, and would be happy to meet (virtually) with other researchers at these events.
-    <ul>
-      <li><a href="https://community.amstat.org/rochester/events/upstats-2021/schedule">Upstate New York Statistics Conference</a>, April 23 - 24</li>
-      <li><a href="https://www.intindstat.org/summerConference2021/scprogCommittee">IISA Conference</a>, May 20 - 23</li>
-      <li><a href="https://www.siam.org/conferences/cm/conference/ds21">SIAM Conference on Applications of Dynamical Systems</a>, May 23 - 27</li>
-      <li><a href="https://ww2.amstat.org/meetings/sdss/2021/onlineprogram/Program.cfm">ASA Symposium on Data Science and Statistics</a>, June 2 - 4</li>
-      <li><a href="https://events.stat.uconn.edu/ISBA2021/index.html">ISBA World Meeting</a>, June 28 - July 2</li>
-      <li><a href="http://www.iscb2021.info/en/pages/iscb-2021-home">ISCB Annual Conference</a>, July 18 - 22</li>
-    </ul>
-  </p>
+<p>Previously, I studied statistics at <a href="https://statistics.yale.edu">Yale University</a> as a master’s student and at Cornell as an undergraduate.</p>
 
-  <p>
-    <b>Other</b><br>
+<h2 id="papers">Papers</h2>
 
-    I am from Los Angeles, California and have also lived in France and the United Kingdom. Outside of statistics, I like drawing/painting and listening to classical piano (especially at the same time). I also enjoy <a href="/photos.html">photography</a>.
-  </p>
+<ul>
+  <li>
+    <p><strong>An empirical Bayes approach to estimating dynamic models of co-regulated gene expression.</strong> <br />
+Sara Venkatraman, Sumanta Basu, Andrew G. Clark, Sofie Delbare, Myung Hee Lee, Martin T. Wells. <em>In preparation, 2021 (draft available upon request).</em> <br />
+<u>2021 IISA Student Paper Competition Winner.</u></p>
+  </li>
+  <li>
+    <p><strong>Association between neighborhood over-crowdedness, multigenerational households, and COVID-19 in New York City.</strong> <br />
+Arnab K. Ghosh*, Sara Venkatraman*, Orysya Soroka, Evgeniya Reshetnyak, Mangala Rajan, Anjile An, John K. Chae, Christopher Gonzalez, Jonathan Prince, Charles DiMaggio, Said Ibrahim, Monika M. Safford, Nathaniel Hupert. <em>Submitted, 2021.</em> <br />
+<a href="https://stat.cornell.edu/news/cornell-statisticians-physicians-team-fight-covid-19">[Cornell Statistics article]</a></p>
+  </li>
+</ul>
 
-<!--   
-  <br>
-  <p style="font-size:0.8em;">
-  Source code for this website is available <a href="https://github.com/sara-venkatraman/sara-venkatraman.github.io">here</a>, and the LaTeX templates I use are available <a href="https://github.com/sara-venkatraman/LaTeX-Templates">here</a>.
-  </p>
- -->
-  </div>
+<p style="font-size: 0.8em; padding: 0px;">
+* denotes co-first authorship.
+</p>
+
+<h2 id="recent-and-upcoming-talks">Recent and upcoming talks</h2>
+
+<p>I look forward to presenting my recent work at the following conferences, and would be happy to meet (virtually) with other researchers at these events.</p>
+
+<ul>
+  <li><a href="https://community.amstat.org/rochester/events/upstats-2021/schedule">Upstate New York Statistics Conference</a>, April 23 - 24</li>
+  <li><a href="https://www.intindstat.org/summerConference2021/scprogCommittee">IISA Conference</a>, May 20 - 23</li>
+  <li><a href="https://www.siam.org/conferences/cm/conference/ds21">SIAM Conference on Applications of Dynamical Systems</a>, May 23 - 27</li>
+  <li><a href="https://ww2.amstat.org/meetings/sdss/2021/onlineprogram/Program.cfm">ASA Symposium on Data Science and Statistics</a>, June 2 - 4</li>
+  <li><a href="https://www.niss.org/events/niss-graduate-student-research-conference">NISS Graduate Student Research Conference</a>, June 12 - 13</li>
+  <li><a href="https://events.stat.uconn.edu/ISBA2021/index.html">ISBA World Meeting</a>, June 28 - July 2</li>
+  <li><a href="http://www.iscb2021.info/en/pages/iscb-2021-home">ISCB Annual Conference</a>, July 18 - 22</li>
+  <li><a href="https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220743">Joint Statistical Meetings</a>, August 8 - 12</li>
+</ul>
+
+<h2 id="more-about-me">More about me</h2>
+
+<p>I am from Los Angeles, California and have also lived in France, where I attended middle and high school, and the United Kingdom. Outside of statistics, I enjoy Romantic-era classical piano, drawing, painting, and <a href="/photos.html">photography</a>. My favorite dataset is the <a href="https://github.com/nyphilarchive/PerformanceHistory">New York Philharmonic Performance History Database</a>.</p>
+
+<p style="font-size: 0.8em; padding-top: 10px; color: gray;">
+Last updated: June 2021.
+</p>
 
 
       </article>
