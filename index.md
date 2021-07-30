@@ -12,26 +12,32 @@ layout: default
 
 <p style="margin:0pt">
 Email: skv24 [at] cornell.edu <br>
+<a href="https://scholar.google.com/citations?user=Ywm1z54AAAAJ&hl=en">Google Scholar</a> &nbsp;&#8226;&nbsp;
+<a href="https://twitter.com/SaraVenkatraman">Twitter</a> &nbsp;&#8226;&nbsp;
 <a href="https://github.com/sara-venkatraman">GitHub</a> &nbsp;&#8226;&nbsp;
-<a href="https://www.linkedin.com/in/saravenkatraman">LinkedIn</a> &nbsp;&#8226;&nbsp;
-<a href="https://twitter.com/SaraVenkatraman">Twitter</a>
+<a href="https://www.linkedin.com/in/saravenkatraman">LinkedIn</a>
 </p>
 
-Welcome! I am a rising third-year PhD student in the Department of Statistics and Data Science at [Cornell University](https://stat.cornell.edu), where I am advised by Professors [Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells) and [Sumanta Basu](http://faculty.bscb.cornell.edu/~basu/). 
+Welcome! I am a second-year PhD student in the Department of Statistics and Data Science at [Cornell University](https://stat.cornell.edu), where I am advised by Professors [Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells) and [Sumanta Basu](http://faculty.bscb.cornell.edu/~basu/). 
 
-My research interests are broadly in the analysis of time-evolving phenomena. I especially enjoy thinking about statistical theory and methods for recovering dynamical systems from data. I am also interested in a variety of problems in numerical analysis, network science, and optimal transport, as well as applications of statistics to demography and the social sciences. 
+My research interests are broadly in the mathematical analysis of time-evolving phenomena. I especially enjoy thinking about statistical theory and methods for recovering dynamical systems from data. I am also interested in a variety of problems in numerical analysis, network science, and optimal transport, as well as applications of statistics to demography and the social sciences. 
 
 Previously, I studied statistics at [Yale University](https://statistics.yale.edu) as a master's student and at Cornell as an undergraduate.
 
 ## Papers
 
 * **An empirical Bayes approach to estimating dynamic models of co-regulated gene expression.** \
-Sara Venkatraman, Sumanta Basu, Andrew G. Clark, Sofie Delbare, Myung Hee Lee, Martin T. Wells. *In preparation, 2021 (draft available upon request).* \
-[[2021 IISA Student Paper Competition Winner]](https://stat.cornell.edu/venkatraman-lands-student-research-award)
+Sara Venkatraman, Sumanta Basu, Andrew G. Clark, Sofie Delbare, Myung Hee Lee, Martin T. Wells. *Submitted, 2021.* \
+[2021 IISA Student Paper Competition Winner.](https://stat.cornell.edu/venkatraman-lands-student-research-award) \
+[Paper (bioRxiv)](https://www.biorxiv.org/content/10.1101/2021.07.08.451684v1) &nbsp;&#8226;&nbsp;
+[Slides](/files/slides/BayesianGeneDynamics.pdf) &nbsp;&#8226;&nbsp; 
+[Video](https://www.youtube.com/watch?v=-OyCig5lKUA)
 
 * **Association between neighborhood overcrowdedness, multigenerational households, and COVID-19 in New York City.** \
 Arnab K. Ghosh\*, Sara Venkatraman\*, Orysya Soroka, Evgeniya Reshetnyak, Mangala Rajan, Anjile An, John K. Chae, Christopher Gonzalez, Jonathan Prince, Charles DiMaggio, Said Ibrahim, Monika M. Safford, Nathaniel Hupert. *Submitted, 2021.* \
-[[Cornell Statistics article]](https://stat.cornell.edu/news/cornell-statisticians-physicians-team-fight-covid-19)
+[Paper (medRxiv)](https://www.medrxiv.org/content/10.1101/2021.06.14.21258904v1) &nbsp;&#8226;&nbsp;
+[Slides](/files/slides/COVID19Dynamics.pdf) &nbsp;&#8226;&nbsp;
+[Cornell Statistics article](https://stat.cornell.edu/news/cornell-statisticians-physicians-team-fight-covid-19)
 
 <p style="font-size: 0.8em; padding: 0px;">
 * denotes co-first authorship.
@@ -60,7 +66,7 @@ I co-organize the math/statistics [Directed Reading Program](https://sites.googl
 ---
 
 <p style="font-size: 0.8em; padding-top: 10px; color: gray;">
-Last updated: June 2021. <br>
+Last updated: July 2021. <br>
 Source code available <a href="https://github.com/sara-venkatraman/sara-venkatraman.github.io" style="color: #748ea6">here</a>.
 </p>
 
