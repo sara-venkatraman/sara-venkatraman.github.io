@@ -18,9 +18,7 @@ Email: skv24 [at] cornell.edu <br>
 <a href="https://www.linkedin.com/in/saravenkatraman">LinkedIn</a>
 </p>
 
-Welcome! I am a second-year PhD student in the Department of Statistics and Data Science at [Cornell University](https://stat.cornell.edu), where I am advised by Professors [Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells) and [Sumanta Basu](http://faculty.bscb.cornell.edu/~basu/). 
-
-My research interests are broadly in the mathematical analysis of time-evolving phenomena. I especially enjoy thinking about statistical theory and methods for recovering dynamical systems from data. I am also interested in a variety of problems in numerical analysis, network science, and optimal transport, as well as applications of statistics to demography and the social sciences. 
+Welcome! I am a second-year PhD student in the Department of Statistics and Data Science at [Cornell University](https://stat.cornell.edu), where I work with Professors [Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells) and [Sumanta Basu](http://faculty.bscb.cornell.edu/~basu/). My research interests are broadly in the mathematical analysis of time-evolving phenomena. Currently, I enjoy thinking about statistical theory and methods for recovering dynamical systems from data. I am also interested in a variety of problems in network science, numerical analysis, and optimal transport, as well as applications of statistics to the social sciences and public health. 
 
 Previously, I studied statistics at [Yale University](https://statistics.yale.edu) as a master's student and at Cornell as an undergraduate.
 
@@ -34,8 +32,8 @@ Sara Venkatraman, Sumanta Basu, Andrew G. Clark, Sofie Delbare, Myung Hee Lee, M
 [Video](https://www.youtube.com/watch?v=-OyCig5lKUA)
 
 * **Association between neighborhood overcrowdedness, multigenerational households, and COVID-19 in New York City.** \
-Arnab K. Ghosh\*, Sara Venkatraman\*, Orysya Soroka, Evgeniya Reshetnyak, Mangala Rajan, Anjile An, John K. Chae, Christopher Gonzalez, Jonathan Prince, Charles DiMaggio, Said Ibrahim, Monika M. Safford, Nathaniel Hupert. *Submitted, 2021.* \
-[Paper (medRxiv)](https://www.medrxiv.org/content/10.1101/2021.06.14.21258904v1) &nbsp;&#8226;&nbsp;
+Arnab K. Ghosh\*, Sara Venkatraman\*, Orysya Soroka, Evgeniya Reshetnyak, Mangala Rajan, Anjile An, John K. Chae, Christopher Gonzalez, Jonathan Prince, Charles DiMaggio, Said Ibrahim, Monika M. Safford, Nathaniel Hupert. *Public Health, 2021.* \
+Paper ([journal](https://authors.elsevier.com/sd/article/S0033-3506(21)00309-7), [medRxiv](https://www.medrxiv.org/content/10.1101/2021.06.14.21258904v1)) &nbsp;&#8226;&nbsp;
 [Slides](/files/slides/COVID19Dynamics.pdf) &nbsp;&#8226;&nbsp;
 [Cornell Statistics article](https://stat.cornell.edu/news/cornell-statisticians-physicians-team-fight-covid-19)
 
@@ -43,7 +41,7 @@ Arnab K. Ghosh\*, Sara Venkatraman\*, Orysya Soroka, Evgeniya Reshetnyak, Mangal
 * denotes co-first authorship.
 </p>
 
-## Recent and upcoming talks
+<!-- ## Recent and upcoming talks
 
 I look forward to presenting my recent work at the following conferences, and would be happy to meet (virtually) with other researchers at these events.
 
@@ -55,7 +53,7 @@ I look forward to presenting my recent work at the following conferences, and wo
 * [ISBA World Meeting](https://events.stat.uconn.edu/ISBA2021/index.html), June 28 - July 2
 * [Women in Network Science (Networks 2021)](https://sites.google.com/uw.edu/winsnetworks2021/), June 30 - July 1
 * [ISCB Annual Conference](http://www.iscb2021.info/en/pages/iscb-2021-home), July 18 - 22
-* [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220743), August 8 - 12
+* [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220743), August 8 - 12 -->
 
 ## More about me
 
