@@ -36,7 +36,7 @@ h3 {
 h5 {
   font-weight: $body-font-weight;
 }
-p.post-title {
+post-title {
   font-size: $post-title-font-size;
   font-weight: $bold-font-weight;
   margin-bottom: 0;
@@ -63,7 +63,7 @@ main {
 }
 time {
   color: #898989;
-  font-size: .9em;
+  font-size: $body-font-size;
 }
 .container {
   max-width: $content-width;

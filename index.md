@@ -6,6 +6,7 @@ layout: default
     <source media="(min-width: 551px)" srcset="files/Banner.png">
     <source media="(max-width: 550px)" srcset="files/Banner-Resized.png">
     <img src="files/Banner.png" style="max-width: 100%;">
+    <!-- <img src="files/S3.jpeg" style="max-width: 20%; border: 1px solid gray"> -->
 </picture>
 
 # Sara Venkatraman
@@ -25,9 +26,9 @@ Previously, I studied statistics at [Yale University](https://statistics.yale.ed
 ## Papers
 
 * **An empirical Bayes approach to estimating dynamic models of co-regulated gene expression.** \
-Sara Venkatraman, Sumanta Basu, Andrew G. Clark, Sofie Delbare, Myung Hee Lee, Martin T. Wells. *Submitted, 2021.* \
-[2021 IISA Student Paper Competition Winner.](https://stat.cornell.edu/news/venkatraman-lands-student-research-award) \
+Sara Venkatraman, Sumanta Basu, Andrew G. Clark, Sofie Delbare, Myung Hee Lee, Martin T. Wells. *Submitted, 2021.* [IISA Student Paper Competition Winner.](https://stat.cornell.edu/news/venkatraman-lands-student-research-award) \
 [Paper (bioRxiv)](https://www.biorxiv.org/content/10.1101/2021.07.08.451684v1) &nbsp;&#8226;&nbsp;
+[Code](https://github.com/sara-venkatraman/Bayesian-ODE-Models-Genetics) &nbsp;&#8226;&nbsp;
 [Slides](/files/slides/BayesianGeneDynamics.pdf) &nbsp;&#8226;&nbsp; 
 [Video](https://www.youtube.com/watch?v=-OyCig5lKUA)
 
@@ -35,9 +36,10 @@ Sara Venkatraman, Sumanta Basu, Andrew G. Clark, Sofie Delbare, Myung Hee Lee, M
 Arnab K. Ghosh\*, Sara Venkatraman\*, Orysya Soroka, Evgeniya Reshetnyak, Mangala Rajan, Anjile An, John K. Chae, Christopher Gonzalez, Jonathan Prince, Charles DiMaggio, Said Ibrahim, Monika M. Safford, Nathaniel Hupert. *Public Health, 2021.* \
 Paper ([journal](https://authors.elsevier.com/sd/article/S0033-3506(21)00309-7), [medRxiv](https://www.medrxiv.org/content/10.1101/2021.06.14.21258904v1)) &nbsp;&#8226;&nbsp;
 [Slides](/files/slides/COVID19Dynamics.pdf) &nbsp;&#8226;&nbsp;
+[Video](https://www.youtube.com/watch?v=Ib9VkkFQeBc) &nbsp;&#8226;&nbsp;
 [Cornell Statistics article](https://stat.cornell.edu/news/cornell-statisticians-physicians-team-fight-covid-19)
 
-* **Association between city-wide lockdown and COVID-19 hospitalization rates in multigenerational households in New York City.**\
+* **Association between city-wide lockdown and COVID-19 hospitalization rates in multigenerational households in New York City.** \
 Arnab K. Ghosh\*, Sara Venkatraman\*, Evgeniya Reshetnyak, Mangala Rajan, Anjile An, John K. Chae, Mark A. Unruh, David Abramson, Charles DiMaggio, Nathaniel Hupert. *Submitted, 2021.*\
 [Paper (medRxiv)](https://www.medrxiv.org/content/10.1101/2021.08.31.21262914v1)
 
@@ -45,23 +47,9 @@ Arnab K. Ghosh\*, Sara Venkatraman\*, Evgeniya Reshetnyak, Mangala Rajan, Anjile
 * denotes co-first authorship.
 </p>
 
-<!-- ## Recent and upcoming talks
-
-I look forward to presenting my recent work at the following conferences, and would be happy to meet (virtually) with other researchers at these events.
-
-* [Upstate New York Statistics Conference](https://community.amstat.org/rochester/events/upstats-2021/schedule), April 23 - 24
-* [IISA Conference](https://www.intindstat.org/summerConference2021/scprogCommittee), May 20 - 23
-* [SIAM Conference on Applications of Dynamical Systems](https://www.siam.org/conferences/cm/conference/ds21), May 23 - 27
-* [ASA Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2021/onlineprogram/Program.cfm), June 2 - 4
-* [NISS Graduate Student Research Conference](https://www.niss.org/events/niss-graduate-student-research-conference), June 12 - 13
-* [ISBA World Meeting](https://events.stat.uconn.edu/ISBA2021/index.html), June 28 - July 2
-* [Women in Network Science (Networks 2021)](https://sites.google.com/uw.edu/winsnetworks2021/), June 30 - July 1
-* [ISCB Annual Conference](http://www.iscb2021.info/en/pages/iscb-2021-home), July 18 - 22
-* [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220743), August 8 - 12 -->
-
 ## More about me
 
-I am from Los Angeles, California and have also lived in France, where I attended middle and high school, and the United Kingdom. Outside of statistics, I enjoy Romantic-era classical piano, drawing, painting, and [photography](/photos.html). My favorite dataset is the [New York Philharmonic Performance History Database](https://github.com/nyphilarchive/PerformanceHistory).
+I am from Los Angeles, California and have also lived in France, where I attended middle and high school, and the United Kingdom. Outside of statistics, I enjoy classical piano, painting, [photography](/photos.html), and running. My favorite dataset is the [New York Philharmonic Performance History Database](https://github.com/nyphilarchive/PerformanceHistory).
 
 I co-organize the math/statistics [Directed Reading Program](https://sites.google.com/cornell.edu/cornell-drp) at Cornell, which pairs undergraduates with PhD students to work on semester-long reading projects on topics of mutual interest.
 
