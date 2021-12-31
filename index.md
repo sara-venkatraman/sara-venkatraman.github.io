@@ -19,7 +19,7 @@ Email: skv24 [at] cornell.edu <br>
 <a href="https://www.linkedin.com/in/saravenkatraman">LinkedIn</a>
 </p>
 
-Welcome! I am a third-year PhD student in the Department of Statistics and Data Science at [Cornell University](https://stat.cornell.edu), where I work with Professors [Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells) and [Sumanta Basu](http://faculty.bscb.cornell.edu/~basu/). My research interests are broadly in the mathematical analysis of time-evolving phenomena. Currently, I enjoy thinking about statistical theory and methods for recovering dynamical systems from data. I am also interested in a variety of problems in network science, numerical analysis, and optimal transport, as well as applications of statistics to the social sciences and public health. 
+Welcome! I am a third-year PhD student in the Department of Statistics and Data Science at [Cornell University](https://stat.cornell.edu), where I am advised by Professors [Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells) and [Sumanta Basu](http://faculty.bscb.cornell.edu/~basu/). My research interests are broadly in the analysis of time-evolving phenomena. I especially enjoy thinking about statistical theory and methods for recovering dynamical systems from data. I am also interested in problems in network science, numerical analysis, and optimal transport, as well as applications of statistics to demography and public health. 
 
 Previously, I studied statistics at [Yale University](https://statistics.yale.edu) as a master's student and at Cornell as an undergraduate.
 
@@ -27,7 +27,7 @@ Previously, I studied statistics at [Yale University](https://statistics.yale.ed
 
 * **An empirical Bayes approach to estimating dynamic models of co-regulated gene expression.** \
 Sara Venkatraman, Sumanta Basu, Andrew G. Clark, Sofie Delbare, Myung Hee Lee, Martin T. Wells. *Submitted, 2021.* [IISA Student Paper Competition Winner.](https://stat.cornell.edu/news/venkatraman-lands-student-research-award) \
-[Paper (bioRxiv)](https://www.biorxiv.org/content/10.1101/2021.07.08.451684v1) &nbsp;&#8226;&nbsp;
+[Paper (bioRxiv)](https://www.biorxiv.org/content/10.1101/2021.07.08.451684v2) &nbsp;&#8226;&nbsp;
 [Code](https://github.com/sara-venkatraman/Bayesian-ODE-Models-Genetics) &nbsp;&#8226;&nbsp;
 [Slides](/files/slides/BayesianGeneDynamics.pdf) &nbsp;&#8226;&nbsp; 
 [Video](https://www.youtube.com/watch?v=-OyCig5lKUA)
@@ -56,7 +56,7 @@ I co-organize the math/statistics [Directed Reading Program](https://sites.googl
 ---
 
 <p style="font-size: 0.8em; padding-top: 10px; color: gray;">
-Last updated: October 2021. <br>
+Last updated: December 2021. <br>
 Source code available <a href="https://github.com/sara-venkatraman/sara-venkatraman.github.io" style="color: #748ea6">here</a>.
 </p>
 
