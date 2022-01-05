@@ -27,8 +27,8 @@ Previously, I studied statistics at [Yale University](https://statistics.yale.ed
 
 * **An empirical Bayes approach to estimating dynamic models of co-regulated gene expression.** \
 Sara Venkatraman, Sumanta Basu, Andrew G. Clark, Sofie Delbare, Myung Hee Lee, Martin T. Wells. *Submitted, 2021.* [IISA Student Paper Competition Winner.](https://stat.cornell.edu/news/venkatraman-lands-student-research-award) \
-[Paper (bioRxiv)](https://www.biorxiv.org/content/10.1101/2021.07.08.451684v2) &nbsp;&#8226;&nbsp;
-[Code](https://github.com/sara-venkatraman/Bayesian-ODE-Models-Genetics) &nbsp;&#8226;&nbsp;
+Paper ([arXiv](https://arxiv.org/abs/2112.15326), [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.08.451684v2)) &nbsp;&#8226;&nbsp;
+[Code](https://github.com/sara-venkatraman/Bayesian-Gene-Dynamics) &nbsp;&#8226;&nbsp;
 [Slides](/files/slides/BayesianGeneDynamics.pdf) &nbsp;&#8226;&nbsp; 
 [Video](https://www.youtube.com/watch?v=-OyCig5lKUA)
 
