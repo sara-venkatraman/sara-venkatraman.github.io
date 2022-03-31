@@ -33,14 +33,14 @@ Previously, I studied statistics at [Yale University](https://statistics.yale.ed
 
 * **Association between city-wide lockdown and COVID-19 hospitalization rates in multigenerational households in New York City.** Arnab K. Ghosh\*, Sara Venkatraman\*, Evgeniya Reshetnyak, Mangala Rajan, Anjile An, John K. Chae, Mark A. Unruh, David Abramson, Charles DiMaggio, Nathaniel Hupert. \
 [*PLOS ONE*, 2022.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266127) \
-[PDF](file:///Users/saravenkatraman/Downloads/journal.pone.0266127.pdf)
+[PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0266127&type=printable) &nbsp;&#8226;&nbsp;
+[Cornell Statistics article](https://stat.cornell.edu/news/cornell-statisticians-physicians-team-fight-covid-19)
 
 * **Association between neighborhood overcrowdedness, multigenerational households, and COVID-19 in New York City.** Arnab K. Ghosh\*, Sara Venkatraman\*, Orysya Soroka, Evgeniya Reshetnyak, Mangala Rajan, Anjile An, John K. Chae, Christopher Gonzalez, Jonathan Prince, Charles DiMaggio, Said Ibrahim, Monika M. Safford, Nathaniel Hupert. \
 [*Public Health*, 2021.](https://www.sciencedirect.com/science/article/pii/S0033350621003097) \
 [PDF](https://www.sciencedirect.com/science/article/pii/S0033350621003097/pdfft?md5=9620860c5e73dbdc1432fce02b27f194&pid=1-s2.0-S0033350621003097-main.pdf) &nbsp;&#8226;&nbsp;
 [Slides](/files/slides/COVID19Dynamics.pdf) &nbsp;&#8226;&nbsp;
-[Video](https://www.youtube.com/watch?v=Ib9VkkFQeBc) &nbsp;&#8226;&nbsp;
-[Cornell Statistics article](https://stat.cornell.edu/news/cornell-statisticians-physicians-team-fight-covid-19)
+[Video](https://www.youtube.com/watch?v=Ib9VkkFQeBc)
 
 <p style="font-size: 0.8em; padding: 0px;">
 * denotes co-first authorship.
