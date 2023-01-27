@@ -18,7 +18,7 @@ Email: skv24 [at] cornell.edu <br>
 <a href="https://www.linkedin.com/in/saravenkatraman">LinkedIn</a>
 </p>
 
-Welcome! I am a third-year PhD student in the Department of Statistics and Data Science at [Cornell University](https://stat.cornell.edu). My advisors are Professors [Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells) and [Sumanta Basu](http://faculty.bscb.cornell.edu/~basu/). I also collaborate with the Division of General Internal Medicine at [Weill Cornell Medical College](https://medicine.weill.cornell.edu/divisions-programs/general-internal-medicine) in New York City, which is where I am currently based. For the summer of 2022, I am working on urban planning research with the [NYC Department of Design and Construction](https://www1.nyc.gov/site/ddc/about/about-ddc.page) through a [Public Interest Technology fellowship](https://www.pi.tech.cornell.edu/pitech-phd-impact-fellowship) from Cornell Tech.
+Welcome! I am a fourth-year PhD student in the Department of Statistics and Data Science at [Cornell University](https://stat.cornell.edu). My advisors are Professors [Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells) and [Sumanta Basu](http://faculty.bscb.cornell.edu/~basu/). I also collaborate with the Division of General Internal Medicine at [Weill Cornell Medical College](https://medicine.weill.cornell.edu/divisions-programs/general-internal-medicine) in New York City, which is where I am currently based. 
 
 My research is broadly in the analysis of temporal and spatial phenomena. I enjoy thinking about theory and methods for fitting models often used in applied mathematics, such as ordinary and partial differential equations, to time series data. I also work on statistical methods for identifying spatial patterns of evolution over time in demographic and epidemiological contexts. Other areas of statistics and math that I like studying include network science, numerical analysis, and optimal transport.
 
@@ -27,10 +27,8 @@ Previously, I studied statistics at [Yale University](https://statistics.yale.ed
 ## Papers
 
 * **Sparse reconstruction of ordinary differential equations with inference.** \
-<!-- Sara Venkatraman, Sumanta Basu, Martin T. Wells. \ -->
 *Working paper*, 2022. \
-[2nd place, Upstate NY Statistics Conference student paper competition.](https://publichealth.buffalo.edu/biostatistics/up-stat-2022-conference.html) \
-<!-- [Slides]() -->
+[2nd place, Upstate NY Statistics Conference student paper competition.](https://publichealth.buffalo.edu/biostatistics/up-stat-2022-conference.html)
 
 * **Association between city-wide lockdown and COVID-19 hospitalization rates in multigenerational households in New York City.** \
 Arnab K. Ghosh\*, Sara Venkatraman\*, Evgeniya Reshetnyak, Mangala Rajan, Anjile An, John K. Chae, Mark A. Unruh, David Abramson, Charles DiMaggio, Nathaniel Hupert. \
@@ -68,7 +66,6 @@ I co-organize the math/statistics [Directed Reading Program](https://sites.googl
 ---
 
 <p style="font-size: 0.8em; padding-top: 10px; color: gray;">
-Last updated: May 2022. <br>
-<!-- Source code available <a href="https://github.com/sara-venkatraman/sara-venkatraman.github.io" style="color: #748ea6">here</a>.
- --></p>
+Last updated: December 2022. 
+</p>
 
