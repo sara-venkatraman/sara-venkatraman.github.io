@@ -11,7 +11,7 @@ layout: default
 # Sara Venkatraman
 
 <p style="margin:0pt">
-Email: skv24 [at] cornell.edu <br>
+Email: venkatraman.sara [at] gmail.com <br>
 <a href="/files/CV_SVenkatraman.pdf">CV</a> &nbsp;&#8226;&nbsp;
 <a href="https://scholar.google.com/citations?user=Ywm1z54AAAAJ&hl=en">Google Scholar</a> &nbsp;&#8226;&nbsp;
 <a href="https://github.com/sara-venkatraman">GitHub</a> &nbsp;&#8226;&nbsp;
@@ -19,7 +19,7 @@ Email: skv24 [at] cornell.edu <br>
 <!-- <a href="https://twitter.com/SaraVenkatraman">Twitter</a> &nbsp;&#8226;&nbsp; -->
 </p>
 
-Welcome! I am a Senior Research Associate in Statistics at [Weill Cornell Medical College](https://globalhealth.weill.cornell.edu/who-we-are) in New York City. I completed my PhD in Statistics in 2024 at [Cornell University](https://stat.cornell.edu), where I was advised by Professors [Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells) and [Sumanta Basu](http://faculty.bscb.cornell.edu/~basu/). My research is broadly in the statistical analysis of temporal and spatial processes, with a particular focus on nonlinear dynamics and estimating systems of differential equations from time series or spatiotemporal data. I am also interested in network science as well as applications of statistics to epidemiology and public policy, especially towards the study of social determinants of health. 
+Welcome! I am a Senior Research Associate in Statistics at [Weill Cornell Medical College](https://globalhealth.weill.cornell.edu/who-we-are) in New York City. I completed my PhD in Statistics in 2024 at [Cornell University](https://stat.cornell.edu), where I was advised by Professors [Martin Wells](https://bowers.cornell.edu/people/martin-t-wells) and [Sumanta Basu](https://sumbose.stat.cornell.edu). My research centers on statistical analysis of temporal and spatial processes, with a particular focus on nonlinear dynamics and estimating systems of differential equations from time series and spatiotemporal data. I am also interested in network science and numerical analysis, and broadly enjoy using statistics to understand complex social, demographic, and health-related phenomena.
 
 Previously, I studied statistics at [Yale University](https://statistics.yale.edu) as a master's student and at Cornell as an undergraduate.
 
@@ -39,9 +39,10 @@ Sara Venkatraman, Sumanta Basu, Martin T. Wells. \
 * **An empirical Bayes approach to estimating dynamic models of co-regulated gene expression.** \
 Sara Venkatraman, Sumanta Basu, Andrew G. Clark, Sofie Delbare, Myung Hee Lee, Martin T. Wells. \
 *Data Science in Science*, 2023. \
-[IISA student paper competition winner.](https://stat.cornell.edu/news/venkatraman-lands-student-research-award) \
+[IISA student paper competition winner.](https://www.intindstat.org/recipients) \
 [Paper](https://www.tandfonline.com/doi/abs/10.1080/26941899.2023.2219707) &nbsp;&#8226;&nbsp;
-[Code](https://github.com/sara-venkatraman/Bayesian-Gene-Dynamics) &nbsp;&#8226;&nbsp;
+[Code (R)](https://github.com/sara-venkatraman/Bayesian-Gene-Dynamics) &nbsp;&#8226;&nbsp;
+[Code (Python)](https://github.com/sara-venkatraman/Bayesian-Gene-Dynamics-Python) &nbsp;&#8226;&nbsp;
 [Slides](/files/slides/GeneDynamics.pdf)
 
 * **Risk prediction for atherosclerotic cardiovascular disease with and without race stratification.** \
@@ -53,8 +54,7 @@ Arnab K. Ghosh, Sara Venkatraman, Michael G. Nanna, Monika M. Safford, Lisandro 
 Arnab K. Ghosh\*, Sara Venkatraman\*, Evgeniya Reshetnyak, Mangala Rajan, Anjile An, John K. Chae, Mark A. Unruh, David Abramson, Charles DiMaggio, Nathaniel Hupert. \
 *PLOS ONE*, 2022. \
 [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266127) &nbsp;&#8226;&nbsp;
-[Slides](/files/slides/COVID19.pdf) &nbsp;&#8226;&nbsp;
-[Cornell Statistics article](https://stat.cornell.edu/news/cornell-statisticians-physicians-team-fight-covid-19)
+[Slides](/files/slides/COVID19.pdf) 
 
 ## More about me
 
@@ -67,6 +67,6 @@ As a PhD student, I co-organized the Cornell math/statistics [Directed Reading P
 ---
 
 <p style="font-size: 0.8em; padding-top: 10px; color: gray;">
-Last updated: August 2024. 
+Last updated: August 2025. 
 </p>
 
