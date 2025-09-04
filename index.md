@@ -12,7 +12,6 @@ layout: default
 
 <p style="margin:0pt">
 Email: venkatraman.sara [at] gmail.com <br>
-<a href="/files/CV_SVenkatraman.pdf">CV</a> &nbsp;&#8226;&nbsp;
 <a href="https://scholar.google.com/citations?user=Ywm1z54AAAAJ&hl=en">Google Scholar</a> &nbsp;&#8226;&nbsp;
 <a href="https://github.com/sara-venkatraman">GitHub</a> &nbsp;&#8226;&nbsp;
 <a href="https://www.linkedin.com/in/saravenkatraman">LinkedIn</a>
@@ -26,7 +25,7 @@ Previously, I studied statistics at [Yale University](https://statistics.yale.ed
 ## Selected papers
 
 <p style="font-size: 0.8em; margin-top: -15px">
-Full list in CV. Co-first authorship denoted by *.
+Co-first authorship denoted by *.
 </p>
 
 * **Sparse reconstruction of ordinary differential equations with inference.** \
